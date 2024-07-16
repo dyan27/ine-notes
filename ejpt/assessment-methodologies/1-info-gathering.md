@@ -255,7 +255,7 @@ To identify the subdomains of a specific domain in a passive way, **publicly ava
 ![sublist3r -h](.gitbook/assets/image-20221126181132532.png)
 
 ```bash
-sudo apt install sublist3r
+sudo apt-get install sublist3r
 
 sublist3r -d hackersploit.com
 sublist3r -d hackersploit.com -e google,yahoo
