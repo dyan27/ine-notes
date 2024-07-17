@@ -867,6 +867,7 @@ Use **`nmap`** to identify open ports and the respective running services on a t
 ```bash
 # Default nmap scan on 1000 most commonly used TCP ports
 nmap <TARGET_IP>
+nmap -Pn <TARGET_IP>
 ```
 
 ### Lab with Nmap
