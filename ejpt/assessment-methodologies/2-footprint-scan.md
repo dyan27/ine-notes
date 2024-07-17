@@ -19,6 +19,10 @@
 
 > ❗***Never run these techniques on un-authorized addresses❗A proper authorization is required to conduct the footprinting and scanning activity.***
 
+## Network Fundamentals and Layers
+Refer to [Network](https://blog.syselement.com/ine/courses/ejpt/penetration-testing-prerequisites/networking)
+
+
 ## Mapping a Network
 
 ### Purpose
