@@ -20,7 +20,7 @@
 > ❗***Never run these techniques on un-authorized addresses❗A proper authorization is required to conduct the footprinting and scanning activity.***
 
 ## Network Fundamentals and Layers
-Refer to [Network](https://github.com/dyan27/ine-notes/blob/main/ejpt/penetration-testing-prerequisites/networking.md))
+Refer to [Network](https://github.com/dyan27/ine-notes/blob/main/ejpt/penetration-testing-prerequisites/networking.md)
 
 
 ## Mapping a Network
